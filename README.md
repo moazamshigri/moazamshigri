@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Moazam</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Front-End+Web+Developer;Freelancer;&center=true&width=500&height=50&color=000000">
+  </a>
+</p>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moazamshigri&label=Profile%20views&color=0e75b6&style=flat" alt="moazamshigri" /> </p>
 
