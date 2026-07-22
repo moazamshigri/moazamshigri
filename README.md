@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moaxam</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 - 🔭 I’m currently working on [My Own Startup Avineq](https://www.avineq.live)
 
